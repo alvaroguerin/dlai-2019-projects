@@ -1,0 +1,17 @@
+Hello Noe,
+
+First of all thank you for allowing me to do this project from Dublin.
+
+I just have a couple of questions regarding the project and how have I implemented it.
+
+Firstly, I would like to know if it is OK the way I have created the encoder regarding how the exercise 2 should be made. I defined the bottleneck with size 10, so when building the classifier I do not have to implement any other linear layer, just a softmax on top.
+
+Secondly, in the exercise 2 I saw that you ask us to plot the results for the 4 approaches, but I just did 3, which one is the fourth? I did the pre-training (just training again but with the supervised approach using the mse loss), the fine-tunning (same thing but changing the learning rate) and training from scratch.
+
+Lastly, you will see two sections with the title FAIL. Those are just two trys I did while building the network, I wanted to do something similar to U-net (without skip connections), but obviuosly it did not work. I just wanted to share it with you for proving that I have tryed more than just one architecture.
+
+Really looking forward for your feedback.
+
+Cheers,
+
+Carles Garcia
